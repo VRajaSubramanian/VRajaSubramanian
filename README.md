@@ -1,6 +1,7 @@
 # 💫 About Me:
 Passionate developer exploring the vast realms of code. <br>Enthusiastic about solving complex problems and building innovative solutions. <br>Constantly learning, growing, and pushing the boundaries of technology. <br>Open source advocate and collaborative team player. <br>Let's connect, collaborate, and create something amazing together!
 
+![GitHub Views](https://komarev.com/ghpvc/?username=VRajaSubramanian&color=FAC151)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/revolver.raja_03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/raja-subramanian-velayudham/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/revolverraja03) 
