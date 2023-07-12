@@ -1,5 +1,9 @@
 # 💫 About Me:
-Passionate developer exploring the vast realms of code. <br>Enthusiastic about solving complex problems and building innovative solutions. <br>Constantly learning, growing, and pushing the boundaries of technology. <br>Open source advocate and collaborative team player. <br>Let's connect, collaborate, and create something amazing together!
+<i>
+  <b>
+    Passionate developer exploring the vast realms of code. <br>Enthusiastic about solving complex problems and building innovative solutions. <br>Constantly learning, growing, and pushing the boundaries of technology. <br>Open source advocate and collaborative team player. <br>Let's connect, collaborate, and create something amazing together!
+  </b>
+</i>
 
 
 ## 🌐 Socials:
