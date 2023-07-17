@@ -4,6 +4,9 @@
     Passionate developer exploring the vast realms of code. <br>Enthusiastic about solving complex problems and building innovative solutions. <br>Constantly learning, growing, and pushing the boundaries of technology. <br>Open source advocate and collaborative team player. <br>Let's connect, collaborate, and create something amazing together!
   </b>
 </i>
+<hr>
+
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=VRajaSubramanian alt=VRajaSubramanian/> </p>
 
 
 ## 🌐 Socials:
@@ -23,5 +26,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=VRajaSubramanian&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=VRajaSubramanian&icon=1&color=6)](https://visitcount.itsvg.in)
 
